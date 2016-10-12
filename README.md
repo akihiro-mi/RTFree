@@ -1,7 +1,8 @@
 # RTFree
 
-radiko タイムフリー録音ツール
-
+radiko タイムフリー録音ツール  
+WindowsとMacで動作確認済み  
+Linuxは未検証
 ## 必要なもの
 - [.NET Core SDK](https://www.microsoft.com/net/core#windows)
 - swfextract
